@@ -1,11 +1,18 @@
 Dados do aluno
 
--Primeiro Nome:
--Profissão:
--Cidade:
--O que faz nas horas vaga:
--Feedback sobre o curso Qualidade de Software:
--Feedback sobre a plataforma de estudo da EBAC:
+-Primeiro Nome: Fabúiola
+-Profissão: Freelancer
+-Cidade: Manaus - Am
+-O que faz nas horas vaga: Pratico exercício, gosto de ler, estudar, estar com a família, 
+    sair e assistir filmes/séries.
+-Feedback sobre o curso Qualidade de Software: Não sei por onde começar a descrever sobre o curso, 
+    simplesmente estou sentindo-me realizada, uma verdade eu quero dizer " Eu NÃO GOSTAVA DE AULA EM EAD" 
+    muitas vezes são maçante, muitas vezes são cantivas e aqui na EBAC, é completamente diferente tenho tanto
+    gosto em aprendder, sem precisar me frustar e das vezes que precisem ficar sem ver aula, batia uma
+    grande tristezas no coração e hoje estou firme forte no meu objetivo em ser uma Qa JR. Os professores são 
+    direitos aos conteúdos, didaticos em suas aulas e grandes conhecedores da área, precisamos de mais 
+    educadores assim como os da EBAC <3
+-Feedback sobre a plataforma de estudo da EBAC: Melhorou muito e de fácil acesso.
 
 Obrigado!!!
 
