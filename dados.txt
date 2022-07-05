@@ -1,6 +1,6 @@
 Dados do aluno
 
--Primeiro Nome: Fabúiola
+-Primeiro Nome: Fabíola
 -Profissão: Freelancer
 -Cidade: Manaus - Am
 -O que faz nas horas vaga: Pratico exercício, gosto de ler, estudar, estar com a família, 
